@@ -46,6 +46,7 @@
     <Compile Include="BusinessDelegate.cs" />
     <Compile Include="BusinessLookUp.cs" />
     <Compile Include="Client.cs" />
+    <Compile Include="fdsafdsa.cs" />
     <Compile Include="IBusinessService.cs" />
     <Compile Include="EJBService.cs" />
     <Compile Include="JMSService.cs" />
